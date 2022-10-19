@@ -1,0 +1,15 @@
+C:\Users\poojitha.devaki\source\repos\que2directory\bin\Debug\net6.0\que2directory.exe
+C:\Users\poojitha.devaki\source\repos\que2directory\bin\Debug\net6.0\que2directory.deps.json
+C:\Users\poojitha.devaki\source\repos\que2directory\bin\Debug\net6.0\que2directory.runtimeconfig.json
+C:\Users\poojitha.devaki\source\repos\que2directory\bin\Debug\net6.0\que2directory.dll
+C:\Users\poojitha.devaki\source\repos\que2directory\bin\Debug\net6.0\que2directory.pdb
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.csproj.AssemblyReference.cache
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.AssemblyInfoInputs.cache
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.AssemblyInfo.cs
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.csproj.CoreCompileInputs.cache
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.dll
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\refint\que2directory.dll
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.pdb
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\que2directory.genruntimeconfig.cache
+C:\Users\poojitha.devaki\source\repos\que2directory\obj\Debug\net6.0\ref\que2directory.dll
